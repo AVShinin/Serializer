@@ -1,0 +1,5 @@
+E:\PROJECTS\c#\ORGChat\ORGChat\AVShinin.Serializer\bin\Debug\AVShinin.Serializer.dll
+E:\PROJECTS\c#\ORGChat\ORGChat\AVShinin.Serializer\bin\Debug\AVShinin.Serializer.pdb
+E:\PROJECTS\c#\ORGChat\ORGChat\AVShinin.Serializer\obj\Debug\AVShinin.Serializer.csprojResolveAssemblyReference.cache
+E:\PROJECTS\c#\ORGChat\ORGChat\AVShinin.Serializer\obj\Debug\AVShinin.Serializer.dll
+E:\PROJECTS\c#\ORGChat\ORGChat\AVShinin.Serializer\obj\Debug\AVShinin.Serializer.pdb
